@@ -5,7 +5,7 @@ This code has been refactored as requested by the client, Horiseon Social Soluti
 Changelog:
 
 - Alt tags added to images to comply with WCAG 2.1
-- Fixed link leading to search engine optimization; link should now path to correct section
+- Fixed link leading to search engine optimization article; link should now path to correct section
 - Re-configured Article images to float left for accessibility
 - Added semantic HTML tags for clarity and accessibility
 - Consolidated CSS selectors with identical values
@@ -13,8 +13,12 @@ Changelog:
 
 Screenshots:
 
-[Deployed Site 1](assets/images/Deploy1.png)
-[Deployed Site 2](assets/images/Deploy2.png)
+![Deployed Site 1](assets/images/Deploy1.png)
+![Deployed Site 2](assets/images/Deploy2.png)
+
+Link to deployed site:
+
+[Deployed Site](https://puentebravo.github.io/Horiseon-refactor/)
 
 ---
 
