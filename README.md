@@ -13,8 +13,8 @@ Changelog:
 
 Screenshots:
 
-[Deployed Site 1](Develop/assets/images/Deploy1.png)
-[Deployed Site 2](Develop/assets/images/Deploy2.png)
+[Deployed Site 1](assets/images/Deploy1.png)
+[Deployed Site 2](assets/images/Deploy2.png)
 
 ---
 
