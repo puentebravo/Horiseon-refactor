@@ -20,6 +20,10 @@ Link to deployed site:
 
 [Deployed Site](https://puentebravo.github.io/Horiseon-refactor/)
 
+Collaboration:
+
+This project wouldn't exist without the expert knowledge of the instructors at the Columbia University Engineering Coding Bootcamp. I would also like to profusely thank my study group, whose advice, input, and peer review were crucial to this project's completion.
+
 ---
 
 Copyright (c) [2020] [Charlie Puente]
